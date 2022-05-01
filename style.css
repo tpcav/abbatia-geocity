@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: green;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 100px;
+}
+
+#hideme {display: none;}
+
+marquee {
+  color: yellow;
+  font-size: 1.2rem;
+  padding: 25px;
+}
+
+.container {
+  font-size: 1.5rem;
+  text-align: center;
+  color: aqua;
+  padding: 5px;
+}
+
+.trench {
+  padding-top: 75px;
+}
