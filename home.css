@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  background-color: black;
+
 }
 
 h1 {
@@ -17,7 +17,16 @@ h1 {
   padding: 100px;
 }
 
+.links {
+  color: white;
+  font-size: 1rem;
+  text-align: center;
+  left: 500px;
+}
 
+.www {
+  width: 10px;
+}
 marquee {
   color: yellow;
   font-size: 1.2rem;
@@ -33,4 +42,8 @@ marquee {
 
 .trench {
   padding-top: 75px;
+}
+
+#gifs {
+  top: 500px;
 }

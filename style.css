@@ -26,5 +26,8 @@ marquee {
 }
 
 .trench {
-  padding-top: 75px;
+  padding-top: 100px;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
 }
