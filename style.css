@@ -4,7 +4,7 @@ body {
 
 h1 {
   color: green;
-  font-size: 1.2rem;
+  font-size: 2rem;
   text-align: center;
   padding: 100px;
 }
@@ -13,12 +13,12 @@ h1 {
 
 marquee {
   color: yellow;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   padding: 25px;
 }
 
 .container {
-  font-size: 1.5rem;
+  font-size: 2rem;
   text-align: center;
   color: aqua;
   padding: 5px;
