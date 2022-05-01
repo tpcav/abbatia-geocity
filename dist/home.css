@@ -1,0 +1,36 @@
+html { 
+  background: url(redhell.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: green;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 100px;
+}
+
+
+marquee {
+  color: yellow;
+  font-size: 1.2rem;
+  padding: 25px;
+}
+
+.container {
+  font-size: 1.5rem;
+  text-align: center;
+  color: white;
+  padding: 5px;
+}
+
+.trench {
+  padding-top: 75px;
+}
